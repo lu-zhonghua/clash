@@ -346,6 +346,8 @@ DOMAIN-SUFFIX,upaiyun.com
 
 
 # AccelerateDirectSites
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.com
